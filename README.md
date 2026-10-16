@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi im Mya-Lilly Simon-Peters
 
-<!--
-**myasimonpeters/myasimonpeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student at Royal Holloway, University of London (predicted First class honours, graduating 2027).
+I'm most fascinated by building things at the intersection of data, finance and algorithms.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 📈 Financial data pipeline — live stock signals using Python, Pandas, SQLite
+- 🔍 Anomaly detector — statistical fraud detection on 284,807 real transactions
+- 🧮 Graph isomorphism research — algorithm implementation in OCaml and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python · Java · SQL · OCaml · C · Pandas · Matplotlib · Git
+
+## Currently learning
+Backtesting · Sharpe ratio · systematic trading strategies 
+
+📫 myalilly1@icloud.com · [LinkedIn](www.linkedin.com/in/mya-lilly-simon-peters-716717308)
